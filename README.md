@@ -69,10 +69,6 @@
   <img src="https://streak-stats.demolab.com/?user=Nindiya31&hide_border=true" alt="Nindiya31 streak" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nindiya31&theme=flat&no-frame=true&row=1&column=6" alt="Nindiya31 trophies" /></a>
-</p>
-
 ---
 
 ### 🤝 Connect with me
