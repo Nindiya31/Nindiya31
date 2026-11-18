@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nindiya Padhiar</h1>
-<h3 align="center">Software Engineer @ ApMoSys · Full-Stack Developer (Java · Spring Boot · Angular)</h3>
+<h3 align="center">Software Engineer · Full-Stack Developer (Java · Spring Boot · Angular)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nindiya31&label=Profile%20views&color=0e75b6&style=flat" alt="Nindiya31" />
@@ -19,10 +19,10 @@
 
 ### 🧑‍💻 About Me
 
-- 💼 **Software Engineer at ApMoSys Technologies** (Jan 2025 – present), building full-stack features for clients in NBFC, fintech and banking: **Mahindra Finance, Veefin Solutions and IDBI Intech**
-- 🔭 Currently building a **Repayment Schedule Distribution module** for Mahindra Finance, which replaces a manual ops process with automated schedule generation and email
-- 🏦 On **Veefin's enterprise fintech platform**, I've delivered **15+ major features and 40+ enhancements** and **cut response time by 45%**
-- 👥 Building and maintaining **iShine**, an in-house HR and employee portal with **1,200+ users**
+- 💼 **Software Engineer** (Jan 2025 – present), building full-stack features for clients in **NBFC, fintech and banking**
+- 🔭 Currently building a **Repayment Schedule Distribution module** for an NBFC client, which replaces a manual ops process with automated schedule generation and email
+- 🏦 On an **enterprise fintech platform**, I've delivered **15+ major features and 40+ enhancements** and **cut response time by 45%**
+- 👥 Building and maintaining an in-house **HR and employee portal** with **1,200+ users**
 - 📋 I turn business requirements into functional and technical specs and ship them in **Agile sprints** (Jira, Bitbucket)
 - 🎓 **B.Tech in Information Technology**, IIIT Bhubaneswar (2021 – 2025)
 - 💬 Ask me about **Spring Boot, Angular, REST API design, SQL/PL-SQL and enterprise app modernization**
@@ -33,10 +33,10 @@
 
 | Project | What I did | Stack |
 |---|---|---|
-| **Repayment Schedule Distribution** · Mahindra Finance | End-to-end module (APIs, Angular UI, automated email). A polling job fetches commenced loans and generates repayment schedules through Odessa APIs. I also wrote the FSD for Sales and Ops users. | Java · Spring Boot · Angular · REST |
-| **Enterprise Fintech Platform** · Veefin Solutions | 15+ features and 40+ enhancements across 5+ modules. Built an Outward Bank Guarantee dashboard, integrated third-party APIs and cut response time by 45%. | Java 17 · Spring Boot · Hibernate · Angular 12 |
-| **iShine HR & Employee Portal** · 1,200+ users | Built the Performance module, training mapping, attendance regularization with a bulk-approval inbox and biometric timesheet sync. Revamped 7+ legacy admin modules. | Spring Boot · Angular · MySQL |
-| **Data Migration Validation** · IDBI Intech | Validated a 22-table to 8-table schema migration in UAT with SQL scripts and reached 100% verification on schedule. | Oracle · SQL · PL/SQL |
+| **Repayment Schedule Distribution** · NBFC | End-to-end module (APIs, Angular UI, automated email). A polling job fetches commenced loans and generates repayment schedules through the lending platform’s APIs. I also wrote the FSD for Sales and Ops users. | Java · Spring Boot · Angular · REST |
+| **Enterprise Fintech Platform** · Fintech | 15+ features and 40+ enhancements across 5+ modules. Built an Outward Bank Guarantee dashboard, integrated third-party APIs and cut response time by 45%. | Java 17 · Spring Boot · Hibernate · Angular 12 |
+| **HR & Employee Portal** · 1,200+ users | Built the Performance module, training mapping, attendance regularization with a bulk-approval inbox and biometric timesheet sync. Revamped 7+ legacy admin modules. | Spring Boot · Angular · MySQL |
+| **Data Migration Validation** · Banking | Validated a 22-table to 8-table schema migration in UAT with SQL scripts and reached 100% verification on schedule. | Oracle · SQL · PL/SQL |
 
 > Client work is under NDA and lives in private repositories. The public projects are below.
 
